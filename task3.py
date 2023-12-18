@@ -12,3 +12,15 @@ t = number of years
 
 You should decide which values should have regular entry widgets, comboboxes or spinboxes.  You will need a label or entry box to show your result.
 """
+import tkinter
+from tkinter import ttk
+import random
+
+win = tkinter.Tk()
+win.attributes('-topmost',True)
+
+
+
+
+
+win.mainloop()
