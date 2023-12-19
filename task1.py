@@ -41,6 +41,5 @@ month.pack(side=tk.LEFT)
 day.pack(side=tk.LEFT)
 year.pack(side=tk.LEFT)
 
-
 win.mainloop()
 
